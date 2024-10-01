@@ -15,9 +15,9 @@ Create a frontend web application that allows users to create, read, update, and
 
 ## Requirements
 
-▪ Frontend Technologies: Use HTML, CSS, and JavaScript (or a framework like React.js) and Mongo DB for Database.
-▪ API Integration: Make API calls to the Notes API for CRUD operations.
-▪ Responsive Design: Ensure the application is responsive and works on various devices.
+1. Frontend Technologies: Use HTML, CSS, and JavaScript (or a framework like React.js) and Mongo DB for Database.
+2. API Integration: Make API calls to the Notes API for CRUD operations.
+3. Responsive Design: Ensure the application is responsive and works on various devices.
 
 ## Installation
 
