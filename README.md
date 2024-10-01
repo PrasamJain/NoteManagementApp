@@ -1,30 +1,40 @@
-# MERN Notes App
+# Basic Notes Management Web Application
 
 A simple MERN (MongoDB, Express.js, React, Node.js) notes app for managing your notes.
 
 ## Introduction
 
-This MERN Notes App is designed to help you manage and organize your notes efficiently. It uses a modern tech stack to provide a seamless user experience.
+Create a frontend web application that allows users to create, read, update, and delete notes using a 
+RESTful Notes API.
 
-## Prerequisites
+## Features
 
-Before you begin, ensure you have met the following requirements:
+1. User Authentication (Optional): Allow users to sign up and log in to manage their notes securely.
+2. Create Note: Users can create a new note by entering a title and content.
+3. Read Notes: Users can view a list of their existing notes, including the title and a snippet of the 
+content.
+4. Update Note: Users can edit the title and content of an existing note.
+5. Delete Note: Users can delete a note from their list.
+6. Search Notes: Users can search for notes by title or conten.
 
-- Node.js: Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
+## Requirements
 
-- MongoDB: You will need a MongoDB instance. You can set up one locally or use a cloud-hosted solution like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+▪ Frontend Technologies: Use HTML, CSS, and JavaScript (or a framework like React, 
+Angular, or Vue.js).
+▪ API Integration: Make API calls to the Notes API for CRUD operations.
+▪ Responsive Design: Ensure the application is responsive and works on various devices.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/atanu3000/MERN_Notes_App.git
+   git clone https://github.com/PrasamJain/NoteManagementApp.git
    ```
 2. Navigate to the repository
 
     ```bash
-    cd MERN_Notes_App
+    cd NoteManagementApp
     ```
 3. Install server dependencies
     ```bash
